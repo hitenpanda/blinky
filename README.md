@@ -11,7 +11,7 @@ Created at: 2026-04-18
 |1                         |NE555P                  | It acts as a clock.     |
 |2                         |CD4017BE                  | It acts as a counter.     |
 
-I learnt making this in a HackClub workshop named **Build Guild** organised in **Kolkata**.
+I was curious to learn about how some ICs work, thought of learning by making one.
 
 Took some screenshot while making the project. It was a fun project to work with ICs and help me understand how do they work.
 
